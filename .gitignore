@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# ML models (optional – large files)
+risk_model.pkl
+
+# OS
+.DS_Store
